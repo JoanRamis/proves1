@@ -1,0 +1,7 @@
+Per a una feina que no comença i acaba dins un període curt de temps, o per a
+feines que han de ser desenvolupades per un equip de persones, és
+recomanable tenir un control de les tasques que s’han fet, quan s’han dut a
+terme, qui les ha fet…
+Un sistema de control de versions és una eina d’ajuda al desenvolupament de
+programari que anirà emmagatzemant, segons els paràmetres indicats, la
+situació del codi font en moments determinats.
