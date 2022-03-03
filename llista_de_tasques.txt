@@ -5,3 +5,5 @@ terme, qui les ha fet…
 Un sistema de control de versions és una eina d’ajuda al desenvolupament de
 programari que anirà emmagatzemant, segons els paràmetres indicats, la
 situació del codi font en moments determinats.
+
+Mi gusta las impanadas, Ala es grande
